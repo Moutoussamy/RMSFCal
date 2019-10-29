@@ -1,5 +1,5 @@
 # RMSFCal
-RMSF & Bfactor calculation along an MD simulation. This script has bee written during a python course in 2014.
+RMSF & Bfactor calculation along an MD simulation.
 
 ## Informations
 
